@@ -1,4 +1,4 @@
-# Level 0 -> 1
+# Level 1 -> 2
 Password for this level:
 ```
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
