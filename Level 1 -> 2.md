@@ -10,7 +10,9 @@ you'll find a file called `-`. However simply typing `cat -` would not work
 in this case since `-` is a special character in the bash terminal which
 points to the previous location that the terminal session was at.
 
-## Output the file to the terminal
+## Steps
+
+### Output the file to the terminal
 Run the following command to cat the output to the terminal output:
 ```
 cat ./-
