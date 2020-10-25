@@ -25,7 +25,7 @@ read from the file:
 cat spaces\ in\ this\ filename
 ```
 
-running said command will give the password to the netx level:
+running said command will give the password to the next level:
 ```
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 ```
